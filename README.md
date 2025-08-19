@@ -5,15 +5,14 @@ It provides study materials, taxonomies, and reproducibility notes for our analy
 
 **Research Questions**
 
-RQ1 – What PTMs are reused in OSS projects, and how are they sourced?
-
-RQ2 – What stages and pipeline orientations characterize PTM reuse workflows?
-
-RQ3 – How do PTMs interact with other models in practice?
-
+RQ1: How do open-source projects structure and document their
+PTM dependencies?
+RQ2: What are the stages and their organization in the pipeline
+of PTM-based open source projects?
+RQ3: How do PTMs interact with other models?
 **RQ Details**
 
-RQ1 – PTM Identification
+RQ1 – PTM Structure and Documentation
 
 Collect 401 OSS projects.
 
