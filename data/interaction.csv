@@ -1,1 +1,202 @@
-
+repo,interaction_type
+github.com/ActiveVisionLab/nope-nerf,sequential
+github.com/rowanz/r2c,heirarchical
+github.com/marshuang80/gloria,Parallel
+github.com/akanazawa/vgan,Evaluation
+github.com/XPixelGroup/RankSRGAN,Feedback
+github.com/aimagelab/multimodal-garment-designer,sequential
+github.com/ygjwd12345/TransDepth,heirarchical
+github.com/ashual/scene_generation,Parallel
+github.com/tding1/CDFI,Feedback
+github.com/andrewsonga/Total-Recon,sequential;Feedback
+github.com/Wangt-CN/VC-R-CNN,heirarchical
+github.com/autonomousvision/texture_fields,Parallel;Feedback
+github.com/Anything-of-anything/Anything-3D,sequential
+github.com/akshitagupta15june/Face-X,heirarchical
+github.com/cassiePython/cddfm3d,Parallel
+github.com/Taeu/Style-Your-Hair,Feedback
+github.com/seoungwugoh/RGMP,heirarchical
+github.com/cuiaiyu/dressing-in-order,Parallel;Feedback
+github.com/eezkni/UEGAN,Feedback
+github.com/arpitbansal297/Universal-Guided-Diffusion,sequential;Feedback
+github.com/zju3dv/NeuralRecon,heirarchical
+github.com/geekyutao/Inpaint-Anything,Parallel
+github.com/Lotayou/Face-Renovation,Feedback
+github.com/ashawkey/nerf2mesh,sequential
+github.com/NIRVANALAN/E3DGE,heirarchical
+github.com/j-min/DallEval,Parallel
+github.com/acht7111020/DSMAP,Feedback
+github.com/yufengm/Adaptive,heirarchical
+github.com/JinghuiZhou/awesome_face_antispoofing,Parallel;Feedback
+github.com/ashawkey/stable-dreamfusion,Feedback;sequential
+github.com/udacity/CVND---Image-Captioning-Project,heirarchical
+github.com/leftthomas/SRGAN,Feedback
+github.com/ziniuwan/maed,heirarchical
+github.com/marcalcarazf/realtime-2D-to-3D-faces,Parallel
+github.com/AdamKortylewski/CompositionalNets,Feedback
+github.com/pliang279/MultiBench,sequential
+github.com/korrawe/grasping_field,heirarchical
+github.com/NikolaZubic/2dimageto3dmodel,Parallel
+github.com/ShihaoZhaoZSH/Uni-ControlNet,sequential
+github.com/NVlabs/prismer,heirarchical
+github.com/sagizty/Insight,Parallel
+github.com/yiyang7/Super_Resolution_with_CNNs_and_GANs,Feedback
+github.com/Stability-AI/stablediffusion,sequential
+github.com/rozumden/DeFMO,heirarchical
+github.com/SamsungLabs/SPIn-NeRF,Parallel
+github.com/egorzakharov/PerceptualGAN,Feedback
+github.com/thygate/stable-diffusion-webui-depthmap-script,sequential
+github.com/autonomousvision/occupancy_networks,heirarchical
+github.com/xichenpan/ARLDM,Parallel
+github.com/dukebw/LOHO,Feedback
+github.com/wxj630/visual-chatgpt-zh,sequential
+github.com/yuliangguo/Pytorch_Generalized_3D_Lane_Detection,heirarchical
+github.com/yuvalkirstain/PickScore,Parallel
+github.com/YeexiaoZheng/Multimodal-Sentiment-Analysis,sequential
+github.com/CuongNN218/zalo_ltr_2021,heirarchical
+github.com/amanchadha/iSeeBetter,Feedback
+github.com/ygtxr1997/CelebBasis,sequential
+github.com/egorsmkv/speech-recognition-uk,sequential
+github.com/autonise/CRAFT-Remade,heirarchical
+github.com/arunmallya/piggyback,Feedback
+github.com/salesforce/UniControl,sequential
+github.com/autonomousvision/texture_fields,heirarchical
+github.com/ChenyangLEI/flash-reflection-removal,Feedback
+github.com/kaleido-lab/dolphin,sequential
+github.com/bshall/hubert,heirarchical
+github.com/codeslake/Color_Transfer_Histogram_Analogy,Feedback
+github.com/cleinc/bts,heirarchical
+github.com/cross-domain-compositing/cross-domain-compositing,Feedback
+github.com/cszn/KAIR,Feedback
+github.com/DebeshJha/2020-CBMS-DoubleU-Net,Feedback
+github.com/cvg/Hierarchical-Localization,Feedback
+github.com/declare-lab/RECCON,heirarchical
+github.com/cvg/limap,Feedback
+github.com/lkeab/gsnet,heirarchical
+github.com/OpenGVLab/InternVideo,heirarchical
+github.com/FudanVI/FudanOCR,Feedback
+github.com/salesforce/CodeRL,heirarchical
+github.com/hejingwenhejingwen/CSRNet,Feedback
+github.com/TRI-ML/vidar,heirarchical
+github.com/hezhangsprinter/DID-MDN,Feedback
+github.com/yuxiangsun/RTFNet,heirarchical
+github.com/IanYeung/RealVSR,Feedback
+github.com/IBM/zshot,evaluation
+github.com/luogen1996/MCN,evaluation
+github.com/AIGC-Audio/AudioGPT,feature handoff
+github.com/airsplay/vokenization,feature handoff
+github.com/ajayjain/DietNeRF,feature handoff
+github.com/alirezazareian/ovr-cnn,feature handoff
+github.com/antoyang/TubeDETR,feature handoff
+github.com/ashawkey/RAD-NeRF,feature handoff
+github.com/ashawkey/stable-dreamfusion,feature handoff
+github.com/avinashkranjan/Amazing-Python-Scripts,feature handoff
+github.com/aws-samples/aws-genai-llm-chatbot,feature handoff
+github.com/awslabs/pptod,feature handoff
+github.com/boudinfl/ake-datasets,feature handoff
+github.com/brightics/studio,feature handoff
+github.com/ChenWu98/cycle-diffusion,feature handoff
+github.com/ContextScout/gcn_ner,feature handoff
+github.com/danielgross/teleprompter,feature handoff
+github.com/davidberenstein1957/classy-classification,feature handoff
+github.com/dpfried/incoder,feature handoff
+github.com/dqshuai/MetaFormer,feature handoff
+github.com/facebookresearch/multihop_dense_retrieval,feature handoff
+github.com/farizrahman4u/loopgpt,feature handoff
+github.com/geeks-of-data/knowledge-gpt,feature handoff
+github.com/guifaChild/text_to_vedio,feature handoff
+github.com/HHousen/TransformerSum,feature handoff
+github.com/hiyoung123/SoftMaskedBert,feature handoff
+github.com/INK-USC/MHGRN,feature handoff
+github.com/jim-schwoebel/allie,feature handoff
+github.com/johannakarras/DreamPose,feature handoff
+github.com/junshutang/Make-It-3D,feature handoff
+github.com/jzbjyb/FLARE,feature handoff
+github.com/KU-CVLAB/3DFuse,feature handoff
+github.com/LearnedVector/A-Hackers-AI-Voice-Assistant,feature handoff
+github.com/Lipurple/Grounded-Diffusion,feature handoff
+github.com/microsoft/jericho,feature handoff
+github.com/Mikubill/naifu-diffusion,feature handoff
+github.com/neulab/knn-transformers,feature handoff
+github.com/rpryzant/neutralizing-bias,feature handoff
+github.com/ScalaConsultants/Aspect-Based-Sentiment-Analysis,feature handoff
+github.com/SCUTlihaoyu/open-chat-video-editor,feature handoff
+github.com/SHI-Labs/Compact-Transformers,feature handoff
+github.com/SHI-Labs/Prompt-Free-Diffusion,feature handoff
+github.com/shmsw25/FActScore,feature handoff
+github.com/snap-stanford/GreaseLM,feature handoff
+github.com/songhaoyu/BoB,feature handoff
+github.com/thunlp/KernelGAT,feature handoff
+github.com/Uminosachi/inpaint-anything,feature handoff
+github.com/usc-isi-i2/cskg,feature handoff
+github.com/veekaybee/viberary,feature handoff
+github.com/VideoCrafter/VideoCrafter,feature handoff
+github.com/ylsung/VL_adapter,feature handoff
+github.com/YuanGongND/whisper-at,feature handoff
+github.com/Yui010206/SeViLA,feature handoff
+github.com/YuxinWenRick/tree-ring-watermark,feature handoff
+github.com/ZeroRin/BertGCN,feature handoff
+github.com/zhvng/open-musiclm,feature handoff
+AlibabaResearch_DAMO-ConvAI/DAMO-ConvAI/PRO/train/utils/metrics.py,feature handoff
+github.com/ashkamath/mdetr,feature handoff; feature handoff: parallel
+github.com/ai-forever/Kandinsky-2,feature handoff; feedback
+github.com/thu-ml/controlvideo,feature handoff; feedback
+github.com/huggingface/instruction-tuned-sd,feature handoff; post processing
+github.com/NorskRegnesentral/skweak,feature handoff: sequential
+github.com/ajayjain/DietNeRF,feedback
+github.com/Amshaker/SwiftFormer,feedback
+github.com/ChenWu98/cycle-diffusion,feedback
+github.com/flowersteam/Grounding_LLMs_with_online_RL,feedback
+github.com/johannakarras/DreamPose,feedback
+github.com/junshutang/Make-It-3D,feedback
+github.com/kangyeolk/Paint-by-Sketch,feedback
+github.com/KU-CVLAB/3DFuse,feedback
+github.com/Lipurple/Grounded-Diffusion,feedback
+github.com/NVlabs/A-ViT,feedback
+github.com/NyanNyanovich/nyan,feedback
+github.com/omerbt/MultiDiffusion,feedback
+github.com/salesforce/CodeRL,feedback
+github.com/SCUTlihaoyu/open-chat-video-editor,feedback
+github.com/YuxinWenRick/tree-ring-watermark,feedback
+github.com/cross-domain-compositing/cross-domain-compositing,feedback
+github.com/7eu7d7/DreamArtist-stable-diffusion,post processing
+github.com/cloneofsimo/paint-with-words-sd,post processing
+github.com/kangyeolk/Paint-by-Sketch,post processing
+github.com/salesforce/UniControl,post processing
+github.com/timothybrooks/instruct-pix2pix,feature handoff
+github.com/ucinlp/autoprompt,feature handoff
+github.com/Xpitfire/symbolicai,feature handoff
+github.com/yuchenlin/SwiftSage,feature handoff; feedback
+github.com/zetaalphavector/inPars,evaluation
+github.com/IBM/zshot,evaluation
+github.com/luogen1996/MCN,evaluation; feature handoff
+github.com/twistedcubic/attention-rank-collapse,evaluation
+github.com/zetaalphavector/inPars,evaluation
+github.com/AIGC-Audio/AudioGPT,feature handoff
+github.com/airsplay/vokenization,feature handoff
+github.com/ajayjain/DietNeRF,feature handoff; feedback
+github.com/alirezazareian/ovr-cnn,feature handoff
+github.com/antoyang/TubeDETR,feature handoff
+github.com/ashawkey/RAD-NeRF,feature handoff
+github.com/ashawkey/stable-dreamfusion,feature handoff
+github.com/avinashkranjan/Amazing-Python-Scripts,feature handoff
+github.com/aws-samples/aws-genai-llm-chatbot,feature handoff
+github.com/awslabs/pptod,feature handoff
+github.com/boudinfl/ake-datasets,feature handoff
+github.com/brightics/studio,feature handoff
+github.com/ChenWu98/cycle-diffusion,feature handoff; feedback
+github.com/ContextScout/gcn_ner,feature handoff
+github.com/danielgross/teleprompter,feature handoff
+github.com/davidberenstein1957/classy-classification,feature handoff
+github.com/dpfried/incoder,feature handoff
+github.com/dqshuai/MetaFormer,feature handoff
+github.com/facebookresearch/multihop_dense_retrieval,feature handoff
+github.com/farizrahman4u/loopgpt,feature handoff
+github.com/geeks-of-data/knowledge-gpt,feature handoff
+github.com/guifaChild/text_to_vedio,feature handoff
+github.com/HHousen/TransformerSum,feature handoff
+github.com/hiyoung123/SoftMaskedBert,feature handoff
+github.com/INK-USC/MHGRN,feature handoff
+github.com/jim-schwoebel/allie,feature handoff
+github.com/johannakarras/DreamPose,feature handoff; feedback
+github.com/junshutang/Make-It-3D,feature handoff; feedback
