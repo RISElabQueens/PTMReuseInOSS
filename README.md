@@ -22,7 +22,7 @@ PTMs interact in modular or tightly coupled designs, reflecting pipeline complex
 
 Based on 401 GitHub repositories sampled from PeaTMOSS (28,575 repos using Hugging Face & PyTorch Hub PTMs).
 
-Includes CSVs summarizing PTM usage, definitions, and references.
+Includes CSVs.
 
 **Scripts**
 
