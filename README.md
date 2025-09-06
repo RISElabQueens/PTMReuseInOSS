@@ -1,43 +1,33 @@
 # PTMReuseInOSS
 
-This repository accompanies our paper "Understanding the Use of Pre-trained Models in Open-source Software Projects".
-It provides study materials, taxonomies, and reproducibility notes for our analysis of 401 GitHub projects.
+**PTMReuseInOSS**
+Software Dependencies 2.0: Reuse and Integration of Pre-Trained Models in Open-Source Projects
+Jerin Yasmin · Wenxin Jiang · James C. Davis · Yuan Tian
 
-**Research Questions**
+**Overview**
+This repository provides replication materials for our study of Pre-Trained Models (PTMs) in open-source software. PTMs are machine learning models trained in advance and reused across projects, introducing a new type of dependency: Software Dependencies 2.0.
 
-RQ1: How do open-source projects structure and document their
-PTM dependencies?
-RQ2: What are the stages and their organization in the pipeline
-of PTM-based open source projects?
-RQ3: How do PTMs interact with other models?
-**RQ Details**
+We investigate how developers integrate PTMs, manage their reuse pipelines, and handle interactions with other models in OSS projects.
 
-RQ1 – PTM Structure and Documentation
+**Key Findings**
+Multi-PTM reuse is common; models may be interchangeable (37%) or complementary (23%).
 
-Collect 401 OSS projects.
+PTM dependency documentation is fragmented; only ~21% of projects document dependencies outside code.
 
-Parse imports/dependencies and detect PTM sources (e.g., Hugging Face, TorchVision).
+Three PTM reuse pipeline types: Feature Extraction, Generative, Discriminative.
 
-Classify PTMs by domain (CV, NLP, multimodal).
+PTMs interact in modular or tightly coupled designs, reflecting pipeline complexity.
 
-RQ2 – Reuse Pipelines
+**Dataset**
 
-Annotate functional stages (INIT, ADPT, FEAT, FT, INF, POST, EVAL, DLV).
+Based on 401 GitHub repositories sampled from PeaTMOSS (28,575 repos using Hugging Face & PyTorch Hub PTMs).
 
-Group projects by organization of the stages: Feature Extraction, Generative, Discriminative.
+Includes CSVs summarizing PTM usage, definitions, and references.
 
-RQ3 – Model Interactions
+**Scripts**
 
-Review 145 survey papers for interaction patterns.
+Detect and trace PTM usage in OSS projects
 
-Analyze 200 multi-model projects.
+Taxonomy: reuse pipelines and multi-model interactions
 
-Categorize interactions: Feature Handoff, Feedback, Evaluation, Post-Processing.
-
-Repository Structure
-data/        # Project list & annotations
-taxonomy/    # Stage & interaction taxonomies
-scripts/     # Parsing + analysis scripts
-figures/     # Diagrams & workflow charts
-README.md    # This file
-
+Generate plots
