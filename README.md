@@ -1,7 +1,7 @@
 # PTMReuseInOSS
 
-**PTMReuseInOSS**
-Software Dependencies 2.0: Reuse and Integration of Pre-Trained Models in Open-Source Projects
+
+Software Dependencies 2.0: An Empirical Study of Reuse and Integration of Pre-Trained Models in Open-Source Projects
 Jerin Yasmin · Wenxin Jiang · James C. Davis · Yuan Tian
 
 **Overview**
