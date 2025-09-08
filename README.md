@@ -2,7 +2,10 @@
 
 
 Software Dependencies 2.0: An Empirical Study of Reuse and Integration of Pre-Trained Models in Open-Source Projects
+
 Jerin Yasmin · Wenxin Jiang · James C. Davis · Yuan Tian
+
+
 
 **Overview**
 This repository provides replication materials for our study of Pre-Trained Models (PTMs) in open-source software. PTMs are machine learning models trained in advance and reused across projects, introducing a new type of dependency: Software Dependencies 2.0.
